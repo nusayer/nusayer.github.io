@@ -1,0 +1,18 @@
+{
+  "name": "jsonresume-theme-hydejack",
+  "version": "0.5.0",
+  "description": "A standalone version of Hydejack's resume layout",
+  "author": "Florian Klampfer <mail@qwtel.com> (https://qwtel.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwtel/jsonresume-theme-hydejack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qwtel/jsonresume-theme-hydejack/issues"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "jsonresume-themeutils": "^1.4.3"
+  }
+}
