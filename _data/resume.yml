@@ -1,0 +1,84 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Nusayer Masud Siddique"
+  label: "Software Engineer"
+  picture: "/assets/images/image5.png"
+  email: ""
+  phone: "+8801974413000"
+  website: "nusayer.github.io"
+  summary: >
+    Motivated recent computer science graduate from BRAC university with comprehensive understanding of java and python. Seeking to use my coding and problem solving skills to meet all business needs.
+  location:
+    address: "Flat A3 5/14 Block E Lalmatia"
+    postalCode: "1207"
+    city: "Dhaka"
+    countryCode: "BD"
+  profiles:
+    - network: "Twitter"
+      username: "nusayer_masud"
+      url: "https://twitter.com/nusayer_masud"
+    - network: "LinkedIn"
+      username: "nusayer"
+      url: "https://www.linkedin.com/in/nusayer/"
+    - network: "Github"
+      username: "nusayer"
+      url: "https://github.com/nusayer"
+work:
+  - company: "BRAC University"
+    position: "Teaching Assistant"
+    website: "https://bracu.ac.bd"
+    startDate: "2019-01-01"
+    endDate: "2020-01-05"
+    summary: >
+      Introduction to Java Programming
+    highlights:
+      - "helped students in labs"
+      - "graded papers for more than one year"
+      - "Provided feedback and guidance to 100+ students"
+education:
+  - institution: "BRAC University"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2016-05-01"
+    endDate: "2020-05-01"
+    gpa: "3.78/4.00"
+    
+awards:
+  - title: "BRAC University Scholarship "
+    date: "2017-01-01"
+    summary: "Recipient of performance-based scholarship for excellent academic result"
+  - title: "Edexcel High Achievers Award"
+    date: "2016-01-01"
+    summary: "For obtaining 4A grades in one sitting in IAL"
+publications:
+  - name: "Prediction of Epileptic Seizures using 
+Support Vector Machine and Regularization"
+    publisher: "IEEE TENSYMP 2020"
+    summary: "Build a model for predicting on-coming seizures in patients by closely analyzing their EEG data"
+skills:
+  - name: "Mobile App Development"
+    level: "Expert"
+    keywords:
+      - "Java"
+      - "Kotlin"
+      - "Dart"
+      - "Flutter"
+  - name: "Machine Learning"
+    level: "good"
+    keywords:
+      - "TensorFlow"
+      - "Keras"
+      - "scikit-learn"
+languages:
+  - language: "English"
+    fluency: "Native Speaker"
+  - language: "Bangla"
+    fluency: "Native Speaker"
+interests:
+  - name: "Travelling"
+    keywords:
+      - "Road Trip"
+      - "Exploration"
+
