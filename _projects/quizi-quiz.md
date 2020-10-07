@@ -26,4 +26,4 @@ description: >
 ## Tools used:
 1.	Everything done in flutter
 2.	Firebase as backend
-3.	[Open API](“https://opentdb.com/api_config.php”) used for question fetching.
+3.	[Open API](https://opentdb.com/api_config.php) used for question fetching.
