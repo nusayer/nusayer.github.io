@@ -21,7 +21,11 @@ The original dataset had images of varying dimensions. Therefore, all the images
 
 ## Layers Used:
 * Two Convolutional ( and max pooling) layers, then two fully connected layers
+
 ## Results
 * Validation accuracy of _81.70%_ was achieved.
 
 ![result](/assets/images/image7.png){:style="float:right; padding:16px"}
+Validation Accuracy
+{:.figure}
+

@@ -32,7 +32,7 @@ work:
     startDate: "2019-01-01"
     endDate: "2020-05-01"
     summary: >
-      Introduction to Java Programming
+      CSE110 : Introduction to Java Programming
     highlights:
       - "helped students in labs"
       - "graded papers for more than one year"
@@ -40,23 +40,36 @@ work:
 education:
   - institution: "BRAC University"
     area: "Computer Science"
-    studyType: "Bachelor"
+    studyType: "Bachelor of Science"
     startDate: "2016-05-01"
     endDate: "2020-05-01"
     gpa: "3.78/4.00"
-    
+    courses:
+      - "Java Programming"
+      - "Database Systems"
+      - "Operating Systems"
+      - "Data Science"
+      - "Machine Learning"
+      - "Android"
 awards:
+  - title: "Awarded Vice Chancellor’s Honor List two times and  Dean’s Honor List three times as recognition for exceptional performance in BSc"
+    date: "2020-01-01"
+    awarder: " BRAC University"
   - title: "BRAC University Scholarship "
     date: "2017-01-01"
-    summary: "Recipient of performance-based scholarship for excellent academic result"
-  - title: "Edexcel High Achievers Award"
+    awarder: " BRAC University"
+  - title: "Edexcel High Achievers Award (A Level)"
     date: "2016-01-01"
-    summary: "For obtaining 4A grades in one sitting in IAL"
+    awarder: " Pearson Edexcel"
+  - title: "ACADEMIA Merit Based Scholarship (A Level)"
+    date: "2014-01-01"
+    awarder: " Academia School"
 publications:
   - name: "Prediction of Epileptic Seizures using 
 Support Vector Machine and Regularization"
     publisher: "IEEE TENSYMP 2020"
     summary: "Build a model for predicting on-coming seizures in patients by closely analyzing their EEG data"
+    website: "https://ieeexplore.ieee.org/document/9230899"
 skills:
   - name: "Mobile App Development"
     level: "Expert"
@@ -66,7 +79,7 @@ skills:
       - "Dart"
       - "Flutter"
   - name: "Machine Learning"
-    level: "good"
+    level: "Expert"
     keywords:
       - "TensorFlow"
       - "Keras"

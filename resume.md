@@ -10,11 +10,11 @@ left_column:
  - education
  - work
  - publications
- - interests
-right_column:
  - skills
  - awards
+right_column:
  - languages
+ - interests
 ---
 
 
