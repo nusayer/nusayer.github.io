@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Bangla Alphabet Recogition'
+title: 'Bangla Alphabet Recognition'
 date: 07 Jun 2020
 image: /assets/images/image6.png
 screenshot: /assets/images/image6.png
