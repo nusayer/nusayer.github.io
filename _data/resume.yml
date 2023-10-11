@@ -5,16 +5,16 @@ basics:
   name: "Nusayer Masud Siddique"
   label: "Software Engineer"
   picture: "/assets/images/image5.png"
-  email: ""
-  phone: "+8801974413000"
+  email: "nusayermasud@gmail.com"
+  phone: "+14315541070"
   website: "nusayer.github.io"
   summary: >
-    Motivated recent computer science graduate from BRAC university with comprehensive understanding of java and python. Seeking to use my coding and problem solving skills to meet all business needs.
+    I am currently pursuing a Master's in Computer Science at the University of Manitoba. My passion lies in  web and mobile app development, machine learning, algorithm design and analysis, data structures and blockchain technology.  I am actively seeking new opportunities in the computer science and IT sectors.
   location:
-    address: "Flat A3 5/14 Block E Lalmatia"
-    postalCode: "1207"
-    city: "Dhaka"
-    countryCode: "BD"
+    address: "76 Lemsford Dr"
+    postalCode: "L3S 4H5"
+    city: "Markham"
+    countryCode: "Canada"
   profiles:
     - network: "Twitter"
       username: "nusayer_masud"
@@ -26,6 +26,17 @@ basics:
       username: "nusayer"
       url: "https://github.com/nusayer"
 work:
+  - company: "University of Manitoba"
+    position: "Graduate Teaching Assistant"
+    website: "https://umanitoba.ca/"
+    startDate: "2021-09-01"
+    endDate: "2023-05-31"
+    summary: >
+       COMP 1010 (Introductory Computer Science 1), COMP 3490 (Computer Graphics 1), COMP 3350 (Software Engineering 1)
+    highlights:
+      - "Assisted students in solving programming problems, fostering a deeper understanding of course materials"
+      - "Graded assignments, quizzes and tests, and provided written feedback to the students"
+      - "Evaluated the qualities of software project and provided written feedback to the students"
   - company: "BRAC University"
     position: "Teaching Assistant"
     website: "https://bracu.ac.bd"
@@ -38,6 +49,17 @@ work:
       - "graded papers for more than one year"
       - "Provided feedback and guidance to 100+ students"
 education:
+  - institution: "University of Manitoba"
+    area: "Computer Science"
+    studyType: "Master of Science"
+    startDate: "2021-09-01"
+    gpa: "4.00/4.50"
+    courses:
+      - "Data-driven Software Engineering"
+      - "Advanced Data Mining"
+      - "Blockchain Systems and Decentralized Applications"
+      - "Approximation Algorithms"
+      - "Graph Algorithms"
   - institution: "BRAC University"
     area: "Computer Science"
     studyType: "Bachelor of Science"
@@ -50,8 +72,11 @@ education:
       - "Operating Systems"
       - "Data Science"
       - "Machine Learning"
-      - "Android"
+      - "Mobile Application Development"
 awards:
+  - title: "International Graduate Student Scholarship"
+    date: "2021-09-01"
+    awarder: " University of Manitoba"
   - title: "Awarded Vice Chancellor’s Honor List two times and  Dean’s Honor List three times as recognition for exceptional performance in BSc"
     date: "2020-01-01"
     awarder: " BRAC University"
@@ -65,10 +90,9 @@ awards:
     date: "2014-01-01"
     awarder: " Academia School"
 publications:
-  - name: "Prediction of Epileptic Seizures using 
-Support Vector Machine and Regularization"
+  - name: "Prediction of Epileptic Seizures using Support Vector Machine and Regularization"
     publisher: "IEEE TENSYMP 2020"
-    summary: "Build a model for predicting on-coming seizures in patients by closely analyzing their EEG data"
+    summary: "Build a model for predicting on-coming seizures in patients by analyzing their EEG data"
     website: "https://ieeexplore.ieee.org/document/9230899"
 skills:
   - name: "Mobile App Development"
